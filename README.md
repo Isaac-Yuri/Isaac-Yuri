@@ -14,6 +14,8 @@
     <img align='center' alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Yuri&layout=compact)]()
+
 Sonho em ser programador e vou me esforçar até o limite para conseguir realizar esse sonho. 
 
 ## Tecnologias que estou estudando atualmente
@@ -24,8 +26,6 @@ Sonho em ser programador e vou me esforçar até o limite para conseguir realiza
     <img align='center' alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align='center' alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><br><br>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Yuri&layout=compact)]()
 
 
 ## SO´s
