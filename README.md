@@ -1,4 +1,6 @@
-### Opa! Bem vindo(a)! Me Isaac Yuri ✌😁
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0fca05&height=100&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0fca05&size=35&center=true&vCenter=true&width=1000&lines=Salve!+Meu+nome+é+Isaac+Yuri;Eu+tenho+19+anos;Sou+do+Brasil;Estou+cursando+Sistemas+para+Internet+no+IFPB;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaac_yuri.py/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/isaac.yuri.5)
