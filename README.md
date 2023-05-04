@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0fca05&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0fca05&size=35&center=true&vCenter=true&width=1000&lines=Salve!+Meu+nome+é+Isaac+Yuri;Eu+tenho+19+anos;Sou+do+Brasil;Estou+cursando+Sistemas+para+Internet+no+IFPB;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0fca05&size=35&center=true&vCenter=true&width=1000&lines=Salve!+Meu+nome+é+Isaac+Yuri...;Eu+tenho+19+anos...;Estou+cursando+Sistemas+para+Internet+no+IFPB...;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="https://www.instagram.com/isaac_yuri.py/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -24,8 +24,6 @@
     <img align='center' alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align='center' alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br>
-
-Sonho em ser programador e vou me esforçar até o limite para conseguir realizar esse sonho. 
 
 ## Tecnologias que estou estudando atualmente
 <div style='display: inline-block'>
