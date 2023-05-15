@@ -6,6 +6,7 @@
 <a href="https://www.instagram.com/isaac_yuri.py/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/isaac.yuri.5"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href = "mailto:isaacyuri22@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://wa.me/558381285516"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 ![Isaac GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Yuri&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Yuri&layout=compact&langs_count=8&hide=python&theme=dark)]()
