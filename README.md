@@ -12,8 +12,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Yuri&layout=compact&langs_count=8&hide=python&theme=dark)]()
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Isaac-Yuri&bg_color=0d1117&color=0FCA05FF&line=0FCA05FF&point=0FCA05FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Tecnologias que uso 
 
 <div align="center" style="display: inline_block"><br>
