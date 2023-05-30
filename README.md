@@ -9,7 +9,7 @@
 <a href = "https://wa.me/558381285516"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 ![Isaac GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Yuri&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Yuri&layout=compact&langs_count=8&hide=python&theme=dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Yuri&layout=compact&langs_count=6&hide=python,shell,powershell,roff&theme=dark)]()
 </div>
 
 ## Tecnologias que uso 
