@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0fca05&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0fca05&size=35&center=true&vCenter=true&width=1000&lines=Salve!+Meu+nome+é+Isaac+Yuri...;Eu+tenho+19+anos...;Estou+cursando+Sistemas+para+Internet+no+IFPB...;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0fca05&size=35&center=true&vCenter=true&width=1000&lines=Salve!+Meu+nome+é+Isaac+Yuri...;Eu+tenho+20+anos...;Estou+cursando+Sistemas+para+Internet+no+IFPB...;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="https://www.instagram.com/isaac_yuri.py/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
